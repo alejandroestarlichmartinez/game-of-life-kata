@@ -1,5 +1,5 @@
 # Kata Game of Life
-## Diseño Sostenible - 
+## Diseño Sostenible
 
 ## Instrucciones
 * `nvm use`
